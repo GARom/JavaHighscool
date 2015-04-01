@@ -1,17 +1,10 @@
-/*
- * DEBUG THIS! Exercise
- * 
- * Learning to read & debug existing code is an important skill.
- * Fix the errors in this program. 
- * Try not to re-write the program, just correct what's wrong.  
- * 
- * This program will convert an input value in Inches to Feet and Inches.
+/*  
+ * This program will convert an input value in inches to feet and inches.
  * There are 12 inches in a foot. 
  * The remainder are the leftover inches
  * Examples:    15 inches = 1 foot 3 inches.
- *              29 inches = 2 feet 5 inches.
+ *              32 inches = 2 feet 8 inches.
  */
-package unitconversionfttoin;
 
 import java.util.Scanner;
 
